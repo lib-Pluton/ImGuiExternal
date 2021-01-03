@@ -11,3 +11,5 @@ ImGui External. It supports x86 and x64
 * [DirectX Software Development Kit](https://www.microsoft.com/en-us/download/details.aspx?id=6812) - This DirectX SDK release contains updates to tools, utilities, samples, documentation, and runtime debug files for x64 and x86 platforms.
 ## Authors
 * [Majdev](https://github.com/inc-Majdev) [Coding]
+* [PlutonLib](https://github.com/PlutonLib) [Coding]
+
